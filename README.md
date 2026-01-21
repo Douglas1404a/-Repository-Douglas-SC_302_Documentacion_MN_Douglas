@@ -1,1 +1,1 @@
-# -Repository-Douglas-SC_302_Documentacion_MN_Douglas
+# SC_302_Documentacion_MN_Douglas
